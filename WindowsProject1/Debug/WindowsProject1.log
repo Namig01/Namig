@@ -1,0 +1,38 @@
+﻿  WindowsProject1.cpp
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(85): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(86): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(90): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(91): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(92): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\shape.h(94): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(166): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\намиг\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(167): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  WindowsProject1.vcxproj -> C:\Users\Намиг\source\repos\WindowsProject1\Debug\WindowsProject1.exe
